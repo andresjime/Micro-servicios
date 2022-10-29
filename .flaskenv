@@ -1,8 +1,0 @@
-FLASK_ENV = development
-FLASK_DEBUG = 1
-FLASK_APP = notificacion.py
-
-
-TWILIO_ACCOUNT_SID='ACfccf10242d8cfb2e3bc65bee201529f0'
-TWILIO_AUTH_TOKEN ='f33d11ad12cd2b6a67f82cb32c416acf'
-SENDGRID_API_KEY = 'la prueba'
